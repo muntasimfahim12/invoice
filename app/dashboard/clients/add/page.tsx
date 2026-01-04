@@ -101,7 +101,7 @@ export default function AddClientPage() {
             <div className="flex justify-between items-center mb-6">
               <div className="flex items-center gap-2">
                 <Wallet size={14} className="text-indigo-600" />
-                <h3 className="text-[10px] font-black uppercase tracking-widest">Advanced Payment History $ other</h3>
+                <h3 className="text-[10px] font-black uppercase tracking-widest">Advanced Payment History</h3>
               </div>
               <button onClick={addAdvancedPayment} className="text-[9px] font-black bg-slate-900 text-white px-4 py-2 rounded-xl flex items-center gap-1.5 hover:bg-indigo-600 transition-all shadow-md shadow-slate-200">
                 <Plus size={12} strokeWidth={3} /> Add Payment
