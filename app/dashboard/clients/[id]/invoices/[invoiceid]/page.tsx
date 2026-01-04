@@ -69,7 +69,7 @@ export default function InvoiceDetailsPage() {
                     </div>
 
                     <div className="text-left md:text-right flex flex-col justify-end">
-                        <h3 className="text-[50px] font-[1000] text-gray-100 leading-none mb-4 uppercase select-none">Invoice</h3>
+                        <h3 className="text-[50px] font-[1000] text-gray-100 leading-none mb-4 uppercase select-none">Yasin</h3>
                         <div className="space-y-1">
                             <p className="text-[10px] font-black text-gray-400 uppercase tracking-widest">Date Issued</p>
                             <p className="text-[14px] font-[900] text-black tracking-tight">January 04, 2026</p>
